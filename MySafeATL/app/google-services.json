@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "157076930471",
+    "project_id": "mysafeatl-1498419427614"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157076930471:android:d62b7c0a8b420b9e",
+        "android_client_info": {
+          "package_name": "com.mysafeatl.atlcomp.mysafeatl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157076930471-6sp3mda1d7amrl4isca8bnrs99nv81sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASp8FgkexwtgTm5EbrHwV_NH7dwLUwZE8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

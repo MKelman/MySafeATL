@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Safe ATL</string>
+    <string name="API_KEY">AIzaSyC_gkp0fJjioRkB8guKhfdu5CQUIJQbx-w</string>
+    <string name="SERVER_KEY">AIzaSyBo8SRVj7HTVXqEvm3G5JIW3lJiNuWJpqU</string>
+    <string name="btn_geocoder">Geocoder</string>
+    <string name="et_location">Location</string>
+    <string name="google_app_id">mysafeatl-1498419427614</string>
+</resources>
